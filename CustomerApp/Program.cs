@@ -4,6 +4,7 @@
     new Customer{Id=3, FirstName="Jack", LastName="Doe", ODLimit=3000},
     new Customer{Id=4, FirstName="Jill", LastName="Doe", ODLimit=4000},
     new Customer{Id=5, FirstName="Joe", LastName="Doe", ODLimit=5000},
+    new Customer{Id=6, FirstName="Jenny", LastName="Doe", ODLimit=6000},
     
 };
 foreach (var customer in customers)
