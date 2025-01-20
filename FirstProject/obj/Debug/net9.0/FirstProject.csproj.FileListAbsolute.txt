@@ -12,3 +12,4 @@
 /Users/abubakernaji/Desktop/Courses/CiCD/FirstProject/obj/Debug/net9.0/FirstProject.pdb
 /Users/abubakernaji/Desktop/Courses/CiCD/FirstProject/obj/Debug/net9.0/FirstProject.genruntimeconfig.cache
 /Users/abubakernaji/Desktop/Courses/CiCD/FirstProject/obj/Debug/net9.0/ref/FirstProject.dll
+/Users/abubakernaji/Desktop/Courses/CiCD/FirstProject/obj/Debug/net9.0/FirstProject.sourcelink.json
