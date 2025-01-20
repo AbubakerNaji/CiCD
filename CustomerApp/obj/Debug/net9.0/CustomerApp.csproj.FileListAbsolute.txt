@@ -1,0 +1,15 @@
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/obj/Debug/net9.0/CustomerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/obj/Debug/net9.0/CustomerApp.AssemblyInfoInputs.cache
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/obj/Debug/net9.0/CustomerApp.AssemblyInfo.cs
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/obj/Debug/net9.0/CustomerApp.csproj.CoreCompileInputs.cache
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/obj/Debug/net9.0/CustomerApp.sourcelink.json
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/bin/Debug/net9.0/CustomerApp
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/bin/Debug/net9.0/CustomerApp.deps.json
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/bin/Debug/net9.0/CustomerApp.runtimeconfig.json
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/bin/Debug/net9.0/CustomerApp.dll
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/bin/Debug/net9.0/CustomerApp.pdb
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/obj/Debug/net9.0/CustomerApp.dll
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/obj/Debug/net9.0/refint/CustomerApp.dll
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/obj/Debug/net9.0/CustomerApp.pdb
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/obj/Debug/net9.0/CustomerApp.genruntimeconfig.cache
+/Users/abubakernaji/Desktop/Courses/CiCD/CustomerApp/obj/Debug/net9.0/ref/CustomerApp.dll
